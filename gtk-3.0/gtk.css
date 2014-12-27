@@ -42,7 +42,7 @@
 @define-color button_normal_color #AAB2BD;
 @define-color button_info_color #434955;
 @define-color button_default_active_color shade(@theme_selected_bg_color, 0.857);
-@define-color entry_border_color #EFF0F1;
+@define-color entry_border_color #DFE0E3;
 @define-color frame_border_bottom_color #EFF0F1;
 @define-color tab_color #EFF0F1;
 @define-color switch_bg_color #C4C7CC;
