@@ -1061,7 +1061,7 @@ GtkModelMenuItem GtkBox GtkImage {
     padding: 0;
     border-width: 1px;
     border-style: solid;
-    background-color: @theme_base_color;
+    background-color: @theme_bg_color;
     border-color: @entry_border_color;
     border-radius: 4px;
     background-image: none;
